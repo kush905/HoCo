@@ -16,8 +16,6 @@ int main() {
 
 
 
-
-
 int HoCo(const char * str) {
     int counter = 0;
 
