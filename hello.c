@@ -1,4 +1,4 @@
-// Your First holeCounter Program
+// Your First holeCounter Program for ASCII
 // GNU GPL 3 License
 
 #include <stdio.h>
