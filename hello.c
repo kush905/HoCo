@@ -1,5 +1,6 @@
 // Your First holeCounter Program for ASCII
 // GNU GPL 3 License
+// hello im nano comment!
 
 #include <stdio.h>
 
